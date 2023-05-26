@@ -25,7 +25,7 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "Военная операция",
+      "repA": "специальная военная операция",
       "repB": "война",
       "type": "Simple"
     },
@@ -258,6 +258,55 @@
       "case": "Maintain",
       "repA": "России",
       "repB": "Хуйлостана",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "спецоперация",
+      "repB": "война",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "о спецоперации",
+      "repB": "о войне",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Мишустин",
+      "repB": "Лысый няш",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "военная операция",
+      "repB": "война",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Сергей Шойгу",
+      "repB": "Картонный Генерал",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Шойгу",
+      "repB": "Картонный Генерал",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "со спецоперацией",
+      "repB": "с войной",
       "type": "Simple"
     }
   ]
