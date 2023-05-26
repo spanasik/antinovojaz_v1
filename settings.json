@@ -1,0 +1,264 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Владимир Путин",
+      "repB": "Хуйло",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "^СВО$",
+      "repB": "война",
+      "type": "RegEx"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "на Украине",
+      "repB": "в Украине",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Военная операция",
+      "repB": "война",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "в России",
+      "repB": "в Хуйлостане",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "в МИД РФ",
+      "repB": "в лупанарии",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Россия",
+      "repB": "Хуйлостан",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "РФ",
+      "repB": "ХС",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "ЦБ",
+      "repB": "Поле Чудес",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "российск",
+      "repB": "хуйлостанск",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "у России",
+      "repB": "у Хуйлостана",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Путина",
+      "repB": "Хуйла",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Путину",
+      "repB": "Хуйлу",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Путин",
+      "repB": "Хуйло",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Медведев",
+      "repB": "Хуйлёныш",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Кремль",
+      "repB": "Бункер Хуйла",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Артемовск",
+      "repB": "Бахмут",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Россию",
+      "repB": "Хуйлостан",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "героев СВО",
+      "repB": "рашистских головорезов",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "русофобы",
+      "repB": "нормальные люди",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Кадыров",
+      "repB": "наш дорогой Падишах",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Дугин",
+      "repB": "идеолог рашизма",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "царьград",
+      "repB": "клоака рашизма",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Лукашенко",
+      "repB": "Бульбофюрер",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Президент России",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Евгений Пригожин",
+      "repB": "Дедушкин упырь",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "ЧВК «Вагнер»",
+      "repB": "Боко харам",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "/.{1}агнера/i",
+      "repB": "упырята",
+      "type": "RegEx"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Пригожина",
+      "repB": "Дедушкиного упыря",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Пригожин",
+      "repB": "Дедушкин упырь",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "ДНР",
+      "repB": "Быдлостан1",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "ЛНР",
+      "repB": "Быдлостан2",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Лавровым",
+      "repB": "Помойным ртом",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Лаврову",
+      "repB": "Помойному рту",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Лаврова",
+      "repB": "Помойного рта",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Лавров",
+      "repB": "Помойный рот",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "России",
+      "repB": "Хуйлостана",
+      "type": "Simple"
+    }
+  ]
+}
